@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
+
+## Skills
+<img alt="Python" src ="https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/>
